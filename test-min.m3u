@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,CCTV-1
+http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1,CCTV-13
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1,Guangdong TV
+https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
